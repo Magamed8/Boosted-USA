@@ -23,7 +23,6 @@ Welcome to the Boosted USA Layout Project! This repository contains the HTML, CS
 
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap (if applicable)
 - [Any other libraries or frameworks used]
 
