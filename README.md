@@ -33,4 +33,5 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repo-name.git
+![image](https://github.com/user-attachments/assets/5d0a8bbf-aa59-417c-9fe0-fefe4c38674a)
 
